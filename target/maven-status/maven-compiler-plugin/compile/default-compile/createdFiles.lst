@@ -1,0 +1,17 @@
+ru\cs\vsu\rudnev_a_e\models\Player.class
+ru\cs\vsu\rudnev_a_e\services\PlayerService.class
+ru\cs\vsu\rudnev_a_e\services\RoundService.class
+ru\cs\vsu\rudnev_a_e\models\Hand.class
+ru\cs\vsu\rudnev_a_e\models\Game.class
+ru\cs\vsu\rudnev_a_e\services\GameService.class
+ru\cs\vsu\rudnev_a_e\models\Suit.class
+ru\cs\vsu\rudnev_a_e\models\Card.class
+ru\cs\vsu\rudnev_a_e\models\PlayArea.class
+ru\cs\vsu\rudnev_a_e\models\Pair.class
+ru\cs\vsu\rudnev_a_e\models\Deck.class
+ru\cs\vsu\rudnev_a_e\Main.class
+ru\cs\vsu\rudnev_a_e\models\Rank.class
+ru\cs\vsu\rudnev_a_e\services\CheckService.class
+ru\cs\vsu\rudnev_a_e\services\DeckService.class
+ru\cs\vsu\rudnev_a_e\services\HandService.class
+ru\cs\vsu\rudnev_a_e\services\PlayAreaService.class
